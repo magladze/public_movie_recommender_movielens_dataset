@@ -6,7 +6,7 @@ from surprise import accuracy
 
 # Step 1: Data Collection and Preprocessing
 # Load the MovieLens dataset (you can download it from https://grouplens.org/datasets/movielens/)
-# For simplicity, we will use the smaller dataset (ml-latest-small)
+
 
 # Load the data into pandas DataFrame
 ratings_df = pd.read_csv('data/ratings.csv')
