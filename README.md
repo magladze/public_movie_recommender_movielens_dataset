@@ -133,7 +133,7 @@ pip install scikit-surprise pandas numpy
 3. Run the Python script to see the movie recommendations for a specific user.
 
 ```bash
-python movie_recommender.py
+python movie_recommender_system.py
 ```
 
 ## Contributing
