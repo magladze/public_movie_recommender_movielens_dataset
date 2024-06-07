@@ -1,0 +1,4 @@
+Load the MovieLens dataset (you can download it from https://grouplens.org/datasets/movielens/)
+
+Ready CSV files appear in the MovieLens 25M Dataset:
+https://files.grouplens.org/datasets/movielens/ml-25m.zip
